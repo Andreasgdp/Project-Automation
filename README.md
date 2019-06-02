@@ -14,8 +14,8 @@
 ```
 2. Set the username and password variables to your github username and password in ```create-repositories\create.py``` (line 7 & 8). For example: 
 ```PYTHON
-7   username = "<your GutHub username>" #Insert your github username here
-8   password = "<your GutHub password>" #Insert your github password here
+7   username = "<your GitHub username>" #Insert your github username here
+8   password = "<your GitHub password>" #Insert your github password here
 ```
 3. Place folder ```create-repositories``` here: ```C:\Users\<your username>\Documents\```, like this: ```C:\Users\<your username>\Documents\create-repositories\```.
 ### ```create.bat```
